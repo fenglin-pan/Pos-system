@@ -26,4 +26,4 @@ npm run build --report
 - 数据方面：利用axios从远程数据库获取数据
  
 ##项目演示
-[项目演示](https://github.com/fenglin-pan/Pos-system/blob/master/pos.gif)
+[](https://github.com/fenglin-pan/Pos-system/blob/master/pos.gif)
